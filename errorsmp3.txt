@@ -1,0 +1,362 @@
+04/20/2017 17:23:58
+ERROR: eVJSikK8hvo: YouTube said: This video is private.
+
+04/29/2017 06:05:44
+ERROR: uQ1-F2slGbA: YouTube said: This video is private.
+
+05/09/2017 06:09:20
+ERROR: kGfYz2xDqZo: YouTube said: This video is private.
+
+06/27/2017 07:01:47
+ERROR: QSOO1gaOHkM: YouTube said: This video is private.
+ERROR: nzQ3lHxs2PI: YouTube said: This video is private.
+
+06/27/2017 17:26:53
+ERROR: giving up after 0 retries
+
+06/27/2017 19:08:29
+ERROR: giving up after 0 retries
+
+06/30/2017 07:01:28
+ERROR: giving up after 0 retries
+
+07/07/2017 06:55:49
+ERROR: t5ZNxkblJWg: YouTube said: This video is private.
+ERROR: HmUn2foM4Qs: YouTube said: This video is private.
+
+07/12/2017 06:42:39
+ERROR: XF466thKQbY: YouTube said: This video is private.
+
+07/13/2017 06:38:35
+ERROR: EEfv11Q05_E: YouTube said: This video is private.
+ERROR: CurespfGBFc: YouTube said: This video is private.
+
+07/28/2017 08:23:30
+ERROR: 9i1rLXZDkOc: YouTube said: This video is private.
+ERROR: r51bp3RT1Y8: YouTube said: This video is private.
+
+08/02/2017 07:58:26
+ERROR: 'content_html'
+
+08/05/2017 11:27:37
+ERROR: Unable to download webpage: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond> (caused by URLError(TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None),))
+
+09/14/2017 08:17:59
+ERROR: ffprobe or avprobe not found. Please install one.
+
+09/14/2017 08:19:17
+ERROR: 'content_html'
+
+09/14/2017 08:20:08
+ERROR: 'content_html'
+
+09/22/2017 05:32:02
+ERROR: 'content_html'
+
+09/22/2017 08:06:04
+ERROR: OtPr9WiQQwA: YouTube said: Please sign in to view this video.
+
+09/27/2017 08:12:03
+ERROR: vqm9z6ICBxY: YouTube said: Please sign in to view this video.
+
+11/30/2017 08:40:36
+ERROR: oltgL6obt6A: YouTube said: Please sign in to view this video.
+
+11/30/2017 17:25:44
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: oltgL6obt6A: YouTube said: Please sign in to view this video.
+
+11/30/2017 17:28:25
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: oltgL6obt6A: YouTube said: Please sign in to view this video.
+
+12/01/2017 04:03:54
+ERROR: oltgL6obt6A: YouTube said: Please sign in to view this video.
+
+01/10/2018 17:08:28
+ERROR: DYbKROpqsMU: YouTube said: Invalid parameters.
+
+01/20/2018 06:34:52
+ERROR: giving up after 0 retries
+ERROR: Unable to download webpage: <urlopen error [Errno 11004] getaddrinfo failed> (caused by URLError(gaierror(11004, 'getaddrinfo failed'),))
+
+01/24/2018 10:02:14
+ERROR: ZgAMn5E_7b0: YouTube said: Invalid parameters.
+
+02/26/2018 12:28:09
+ERROR: fz2_WaKs12U: YouTube said: Invalid parameters.
+
+02/26/2018 13:21:50
+ERROR: fz2_WaKs12U: YouTube said: Invalid parameters.
+
+03/08/2018 08:44:37
+ERROR: _vdP1qtY_T0: YouTube said: Invalid parameters.
+
+03/12/2018 13:30:52
+ERROR: 'MyLogger' object has no attribute 'debug'
+
+03/20/2018 07:56:23
+ERROR: _j5R_-Otg_c: YouTube said: Invalid parameters.
+
+04/06/2018 08:26:52
+ERROR: jI80plnmpE0: YouTube said: This video is unavailable.
+
+04/13/2018 07:55:40
+ERROR: Jlbq1WDefDU: YouTube said: This video is unavailable.
+
+04/19/2018 08:08:17
+ERROR: XrRJ6kEfb8o: YouTube said: This video is unavailable.
+
+04/20/2018 14:54:30
+ERROR: XrRJ6kEfb8o: YouTube said: This video is unavailable.
+
+05/10/2018 08:42:35
+ERROR: zbzSXo7YDnQ: YouTube said: This video is unavailable.
+
+05/10/2018 08:57:34
+ERROR: zbzSXo7YDnQ: YouTube said: This video is unavailable.
+ERROR: b5yeR6vZ-aE: YouTube said: This video is unavailable.
+
+05/10/2018 08:58:11
+ERROR: zbzSXo7YDnQ: YouTube said: This video is unavailable.
+ERROR: b5yeR6vZ-aE: YouTube said: This video is unavailable.
+
+05/10/2018 09:27:04
+ERROR: zbzSXo7YDnQ: YouTube said: This video is unavailable.
+
+05/11/2018 07:12:01
+ERROR: zbzSXo7YDnQ: YouTube said: This video is unavailable.
+
+05/17/2018 08:47:34
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+05/17/2018 15:24:21
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+05/25/2018 15:39:25
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+05/30/2018 11:30:36
+ERROR: This video is unavailable.
+
+06/01/2018 14:44:44
+ERROR: This live stream recording is not available.
+
+06/05/2018 08:33:36
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: This video is unavailable.
+
+06/06/2018 09:00:13
+ERROR: This video is unavailable.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+06/11/2018 15:17:53
+ERROR: This live stream recording is not available.
+ERROR: unable to download video data: <urlopen error EOF occurred in violation of protocol (_ssl.c:833)>
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+06/11/2018 15:47:16
+ERROR: This live stream recording is not available.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+06/12/2018 10:36:52
+ERROR: This live stream recording is not available.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+06/12/2018 13:18:01
+ERROR: This live stream recording is not available.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+06/12/2018 13:18:01
+ERROR: This live stream recording is not available.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+06/12/2018 15:09:08
+ERROR: This live stream recording is not available.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+06/22/2018 11:37:54
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+07/05/2018 08:41:38
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+07/06/2018 08:12:22
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+07/11/2018 11:02:57
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+07/12/2018 10:20:26
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+07/13/2018 15:13:59
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+07/20/2018 12:59:23
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+07/26/2018 08:45:49
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+08/13/2018 09:15:50
+ERROR: [WinError 32] The process cannot access the file because it is being used by another process: 'RollPlay - Court of Swords - S4 - Week 83, Part 1 - The Prisoner.m4a'
+ERROR: [WinError 32] The process cannot access the file because it is being used by another process: 'The Echo Tree _ Critical Role RPG Show Episode 63.temp.m4a' -> 'The Echo Tree _ Critical Role RPG Show Episode 63.m4a'
+
+09/12/2018 10:29:31
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+09/14/2018 11:49:09
+ERROR: Unable to extract uploader name; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+
+10/11/2018 14:03:45
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+ERROR: ffprobe or avprobe not found. Please install one.
+
+10/29/2018 09:33:36
+ERROR: 'MyLogger' object has no attribute 'debug'
+ERROR: 'MyLogger' object has no attribute 'debug'
+ERROR: 'MyLogger' object has no attribute 'debug'
+ERROR: 'MyLogger' object has no attribute 'debug'
+
+11/07/2018 08:32:36
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+
+11/19/2018 09:27:24
+ERROR: [WinError 32] The process cannot access the file because it is being used by another process: 'RollPlay - Court of Swords - S5 - Week 92 - Wishes.m4a'
+ERROR: This video is unavailable.
+
+11/19/2018 13:49:59
+ERROR: This video is unavailable.
+
+11/20/2018 08:27:18
+ERROR: This video is unavailable.
+
+11/26/2018 09:04:53
+ERROR: This video is unavailable.
+
+12/17/2018 10:51:03
+ERROR: giving up after 0 retries
+
+12/17/2018 13:57:52
+ERROR: giving up after 0 retries
+ERROR: This video is unavailable.
+
+12/18/2018 08:11:12
+ERROR: This video is unavailable.
+
+01/04/2019 09:05:42
+ERROR: This live stream recording is not available.
+
+01/07/2019 11:07:38
+ERROR: This live stream recording is not available.
+
+01/09/2019 10:01:09
+ERROR: This live stream recording is not available.
+ERROR: This video is unavailable.
+
+01/11/2019 13:51:29
+ERROR: This video is unavailable.
+ERROR: This live stream recording is not available.
+ERROR: This live stream recording is not available.
+
+01/14/2019 08:31:32
+ERROR: This live stream recording is not available.
+ERROR: This live stream recording is not available.
+
+01/23/2019 13:27:53
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+ERROR: This live stream recording is not available.
+ERROR: This live stream recording is not available.
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+
+01/24/2019 13:44:08
+ERROR: This video is unavailable.
+ERROR: This live stream recording is not available.
+ERROR: This live stream recording is not available.
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+
+01/25/2019 13:19:08
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+ERROR: This live stream recording is not available.
+ERROR: This live stream recording is not available.
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+
+01/29/2019 14:51:03
+ERROR: This live stream recording is not available.
+ERROR: This live stream recording is not available.
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+
+02/08/2019 11:01:57
+ERROR: This video is unavailable.
+
+02/20/2019 09:27:48
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+
+02/22/2019 08:59:34
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+
+02/25/2019 08:49:22
+ERROR: This video is unavailable.
+
+03/19/2019 06:06:30
+ERROR: This video is unavailable.
+ERROR: giving up after 0 retries
+ERROR: giving up after 0 retries
+ERROR: giving up after 0 retries
+
+04/02/2019 07:19:32
+ERROR: This video is unavailable.
+
+04/15/2019 18:18:59
+ERROR: This video is unavailable.
+
+05/20/2019 09:49:16
+ERROR: klPYnbEA0eA: "token" parameter not in video info for unknown reason; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: zobBdXlUrpA: "token" parameter not in video info for unknown reason; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: Ep0l8XYAtag: "token" parameter not in video info for unknown reason; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: vRtXqaOJKjA: "token" parameter not in video info for unknown reason; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: eYmRlq3K8BU: "token" parameter not in video info for unknown reason; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: 9nDw80Vi_Ys: "token" parameter not in video info for unknown reason; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: VE7dvK-ox7g: "token" parameter not in video info for unknown reason; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
+ERROR: VYCCwCcp-uY: YouTube said: This video is unavailable.
+
+05/22/2019 06:48:25
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+ERROR: This video is unavailable.
+

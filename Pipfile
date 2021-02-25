@@ -7,6 +7,7 @@ name = "pypi"
 mutagen = "*"
 youtube_dl = "*"
 pyinstaller = "*"
+pywin32-ctypes = "*"
 
 [dev-packages]
 

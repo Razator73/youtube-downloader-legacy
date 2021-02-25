@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cd7a76321c41b143c51dbaadc3be2c42b53c4c46c25cea798cf448fe33285373"
+            "sha256": "97df0e71354dbfa99662365e5baba50cb2098079e5d32ab956fbf869d2ec64c8"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,12 +23,17 @@
             ],
             "version": "==0.17"
         },
+        "future": {
+            "hashes": [
+                "sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d"
+            ],
+            "version": "==0.18.2"
+        },
         "importlib-metadata": {
             "hashes": [
                 "sha256:24499ffde1b80be08284100393955842be4a59c7c16bbf2738aad0e464a8e0aa",
                 "sha256:c6af5dbf1126cd959c4a8d8efd61d4d3c83bddb0459a17e554284a077574b614"
             ],
-            "markers": "python_version < '3.8'",
             "version": "==3.7.0"
         },
         "mutagen": {
@@ -38,6 +43,12 @@
             ],
             "index": "pypi",
             "version": "==1.45.1"
+        },
+        "pefile": {
+            "hashes": [
+                "sha256:a5d6e8305c6b210849b47a6174ddf9c452b2888340b8177874b862ba6c207645"
+            ],
+            "version": "==2019.4.18"
         },
         "pyinstaller": {
             "hashes": [
@@ -52,6 +63,14 @@
                 "sha256:fc3290a2ca337d1d58c579c223201360bfe74caed6454eaf5a2550b77dbda45c"
             ],
             "version": "==2020.11"
+        },
+        "pywin32-ctypes": {
+            "hashes": [
+                "sha256:24ffc3b341d457d48e8922352130cf2644024a4ff09762a2261fd34c36ee5942",
+                "sha256:9dc2d991b3479cc2df15930958b674a48a227d5361d413827a4cfd0b5876fc98"
+            ],
+            "index": "pypi",
+            "version": "==0.2.0"
         },
         "typing-extensions": {
             "hashes": [
@@ -75,7 +94,6 @@
                 "sha256:102c24ef8f171fd729d46599845e95c7ab894a4cf45f5de11a44cc7444fb1108",
                 "sha256:ed5eee1974372595f9e416cc7bbeeb12335201d8081ca8a0743c954d4446e5cb"
             ],
-            "markers": "python_version >= '3.6'",
             "version": "==3.4.0"
         }
     },
